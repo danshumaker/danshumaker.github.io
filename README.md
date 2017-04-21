@@ -1,5 +1,4 @@
-# danshumaker.github.io
-Dan Shumaker's Projects
+# Projects
 
-* https://github.com/danshumaker/drush-uroll.git
-* http://danshumaker.github.io/ac-deploy/
+* [Drush Update Rollback] https://danshumaker.github.io/drush-uroll
+* [Acquia Deploy CLI] http://danshumaker.github.io/ac-deploy
