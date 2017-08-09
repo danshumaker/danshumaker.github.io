@@ -13,4 +13,7 @@
 * [Drupal Database Backups](http://danshumaker.github.io/ddbb)
     * Save the configurations of the gigantic mysqldump commands that are specific to many Drupal LAMP installations.
     * Makes backups but also transfers files via ssh. It is independant of drush and drupal.
+* [Project Statistics](http://danshumaker.github.io/proj_stats)
+    * Output file size statistics to a log file for importing into MySQL for further analysis
+    * Quickly see the lines of code for a analyzed project grouped by file extenstion and file type.
 
